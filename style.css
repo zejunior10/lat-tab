@@ -105,6 +105,9 @@ body {
 #footer .roots a:active {
   color: skyblue;
 }
+#footer .zanzibar a{
+  color: green;
+}
 
 .refresh {
   width: 40px;
